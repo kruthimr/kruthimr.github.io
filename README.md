@@ -1,2 +1,2 @@
 # kruthimr.github.io
-# My Personal website - Word under progress 
+## My Personal website - Work under progress 
