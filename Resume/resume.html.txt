@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <title>Kruthika Modepalli - Resume</title>
+    </header>
+    <body style="text-align: center">
+       <embed src="./KruthikaModepalli InternshipResume.pdf" width="800px" height="800px" />
+    </body>
+</html>
